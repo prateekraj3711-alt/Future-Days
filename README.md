@@ -22,13 +22,12 @@ An advanced web application that uses cutting-edge AI and quantum computing algo
 **"100% MONEYBACK GAURANTEE"**
 
 ## 🌐 Live Demo
-[View Live Demo] https://day-predictor.vercel.app/
+[View Live Demo] https://future-days-pi.vercel.app/
 
 ## 📝 License
 MIT License
 
-## 🤝 Contributing
-Feel free to fork and contribute!
+
 
 ---
-Made with 💜 by Prateek Raj
+Made without Logic 💜 by Prateek Raj
